@@ -1,7 +1,6 @@
 {
   "version": "v16.0-ABSOLUTE_ZERO",
-  "versionCode": "1600",
+  "versionCode": 1600,
   "zipUrl": "https://github.com/mnabilirzaprawira-ops/Module-File-Hare/releases/download/Module/Magic_Random-Pro-V16.Columbia.Cryo.zip",
-  "changelog": "https://raw.githubusercontent.com/mnabilirzaprawira-ops/JSON-V16/refs/heads/main/changelog.md",
-  "bannerUrl": "https://raw.githubusercontent.com/mnabilirzaprawira-ops/All-Banner/refs/heads/main/mrp.png"
+  "changelog": "https://raw.githubusercontent.com/mnabilirzaprawira-ops/JSON-V16/refs/heads/main/changelog.md"
 }
